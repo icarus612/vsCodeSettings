@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "workbench.startupEditor": "newUntitledFile",
+    "prettier.useTabs": true,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.autofetch": true,
+    "window.zoomLevel": 0,
+    "editor.hover.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.quickSuggestions": null,
+    "editor.acceptSuggestionOnEnter": "smart"
+}
